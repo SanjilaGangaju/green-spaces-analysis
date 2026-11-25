@@ -2,7 +2,7 @@
 
 ## 1. Study Area
 
-Pokhara Metropolitan City, Gandaki Province, Nepal. The municipal boundary (`Pokhara_boundary.gpkg`) defines the analysis extent.
+Pokhara Metropolitan City, Gandaki Province, Nepal. The municipal boundary (`data/processed/Pokhara_Boundary.gpkg`) defines the analysis extent.
 
 ## 2. Data Collection
 

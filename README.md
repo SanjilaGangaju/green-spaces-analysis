@@ -79,6 +79,5 @@ QGIS, QuickOSM, Buffer, Clip, Extract by Location and Print Layout.
 │   ├── processed/          # Clipped, reprojected and buffered layers
 │   └── analysis/           # Analysis results and write-up
 ├── documentation/          # Methodology and project notes
-├── maps/                   # Final map exports (PDF, PNG)
-└── Pokhara_boundary.gpkg   # Study area boundary
+└── maps/                   # Final map exports (PDF, PNG)
 ```
