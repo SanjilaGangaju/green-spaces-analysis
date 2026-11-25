@@ -1,0 +1,4 @@
+.DS_Store
+*.qgz~
+*.gpkg-wal
+*.gpkg-shm
